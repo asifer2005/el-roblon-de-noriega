@@ -2,7 +2,7 @@
 
 Sitio web (one-page) del **Restaurante-Sidrería El Roblón de Noriega** (Ribadedeva, Asturias).
 
-- 🌐 **En producción:** https://elroblonnoriega.netlify.app
+- 🌐 **En producción:** https://el-roblon-de-noriega.pages.dev
 - HTML/CSS/JS estático, sin build: se despliega tal cual.
 
 ## Estructura
@@ -10,4 +10,4 @@ Sitio web (one-page) del **Restaurante-Sidrería El Roblón de Noriega** (Ribade
 - `assets/instagram/` — fotografías
 
 ## Despliegue
-Conectado a Netlify. Cada `git push` a `main` republica la web automáticamente.
+Conectado a Cloudflare Pages. Cada `git push` a `main` republica la web automáticamente.
